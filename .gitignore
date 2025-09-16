@@ -1,0 +1,6 @@
+docker/.jupyter/*
+docker/work/src/*
+.venv
+.env
+.vscode
+!docker/work/src/.gitkeep

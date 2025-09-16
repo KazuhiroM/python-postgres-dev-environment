@@ -1,0 +1,10 @@
+###### Requirements without Version Specifiers ######
+jupysql
+psycopg2
+SQLAlchemy
+pandas
+numpy
+scikit-learn
+python-dateutil
+
+###### Requirements with Version Specifiers ######
